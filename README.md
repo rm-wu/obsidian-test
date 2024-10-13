@@ -14,22 +14,6 @@ vault/
 ├── templates/
 └── README.md
 ```
-# obsidian-test
-A repo to test obsidian as a collaborative note taking tool for a research group.
-
----
-
-## Folder organization
-```
-vault/
-│
-├── files/
-├── meeting/
-├── notes/
-├── papers/
-├── templates/
-└── README.md
-```
 
 ### Folder contents guide
 
