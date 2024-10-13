@@ -5,4 +5,8 @@ Tags:
 
 # {{title}}
 
-### {{date:YYYY.MM.DD}}
+
+
+---
+### References
+
