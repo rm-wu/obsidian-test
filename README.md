@@ -72,3 +72,6 @@ To set up this collaborative note-taking vault using Obsidian and Git, follow th
 Remember to communicate with your team about Git best practices, such as pulling before making changes and resolving conflicts when they arise.
 
 By following these steps, you and your research group can start using this Obsidian vault for collaborative note-taking, with changes synchronized through Git.
+
+<!-- ![Obsidian Interface](.assets/interface.png) -->
+<img src=".assets/interface.png" alt="Obsidian Interface" width="90%">
