@@ -2,6 +2,7 @@
 A repo to test obsidian as a collaborative note taking tool for a research group.
 
 ---
+<img src=".assets/interface.png" alt="Obsidian Interface" width="100%">
 
 ## Folder organization
 ```
@@ -73,5 +74,15 @@ Remember to communicate with your team about Git best practices, such as pulling
 
 By following these steps, you and your research group can start using this Obsidian vault for collaborative note-taking, with changes synchronized through Git.
 
-<!-- ![Obsidian Interface](.assets/interface.png) -->
-<img src=".assets/interface.png" alt="Obsidian Interface" width="90%">
+
+## Note taking with Obsidian
+<img src=".assets/obsidian-vis.png" alt="Obsidian Interface" width="90%">
+
+File preview support:
+<img src=".assets/file-integration.png" alt="File Preview" width="90%">
+
+## Graph View
+<img src=".assets/graph-view.png" alt="Graph View" width="90%">
+
+## Meeting Notes
+<img src=".assets/meeting.png" alt="Graph View" width="90%">
