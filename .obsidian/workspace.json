@@ -11,8 +11,12 @@
             "id": "0f520806a339b59c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/Inference Problems Nobel.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Inference Problems Nobel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Inference Problems Nobel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "notes/Inference Problems Nobel.md"
+              }
+            }
+          },
+          {
+            "id": "79f338df8ec11062",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,6 +157,9 @@
   },
   "active": "0f520806a339b59c",
   "lastOpenFiles": [
+    "notes/Image World Models.md",
+    "papers/A_Trio_of_Inference_Problems.pdf",
+    "notes/Inference Problems Nobel.md",
     "scratch/obsidian-sample-plugin/node_modules/@esbuild/linux-arm64",
     "scratch/obsidian-sample-plugin/node_modules/@esbuild/linux-arm",
     "scratch/obsidian-sample-plugin/node_modules/@esbuild/freebsd-arm64",
@@ -150,8 +169,6 @@
     "scratch/obsidian-sample-plugin/package-lock.json",
     "scratch/obsidian-sample-plugin/node_modules/typescript/ThirdPartyNoticeText.txt",
     "scratch/obsidian-sample-plugin/node_modules/typescript/LICENSE.txt",
-    "scratch/obsidian-sample-plugin/node_modules/typescript/CopyrightNotice.txt",
-    "scratch/obsidian-sample-plugin/node_modules/typescript/lib/typescriptServices.d.ts",
     "scratch/obsidian-sample-plugin/node_modules/typescript/SECURITY.md",
     "scratch/obsidian-sample-plugin/node_modules/typescript/README.md",
     "scratch/obsidian-sample-plugin/node_modules/typescript/CODE_OF_CONDUCT.md",
@@ -176,7 +193,6 @@
     "scratch/obsidian-sample-plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/return-await.md",
     "scratch/obsidian-sample-plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/restrict-template-expressions.md",
     "scratch/obsidian-sample-plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/restrict-plus-operands.md",
-    "scratch/obsidian-sample-plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/require-await.md",
     "Screenshot 2024-10-13 alle 16.01.33.png",
     "Screenshot 2024-10-13 alle 16.01.45.png",
     "Screenshot 2024-10-13 alle 16.01.55.png",
