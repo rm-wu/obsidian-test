@@ -4,6 +4,29 @@ A repo to test obsidian as a collaborative note taking tool for a research group
 ---
 <img src=".assets/interface.png" alt="Obsidian Interface" width="100%">
 
+### How to use
+Let's start by cloning the repo:
+```shell
+git clone https://github.com/rm-wu/ocl_project.git
+```
+Open the folder as a vault in Obsidian.
+`Obsidian > File > Open Vault > Open Folder as Vault > Select the folder you cloned the repo into. `
+
+
+> [!IMPORTANT]
+> I need to try if the files contained in `.obsidian/` are enough to download all the needed plugins and enable all the hotkeys.
+
+### Obsidian setup
+You need to install the following plugins:
+- [obsidian-git](https://github.com/Vinzent03/obsidian-git)
+- [dataview](https://github.com/blacksmithgu/obsidian-dataview)
+
+First go to `Obsidian Preferences > Files and links` and select `Default location for new notes > In the folder specified below > notes` and `Default location for attachments > In the folder specified below > files`.
+
+For enabling hotkeys, `Obsidian Preferences > Hotkeys > Plugins > Search for template > Templates: Insert Template > cmd+t`.
+
+For template, go to `Obsidian Preferences > Templates > Template Folder location > templates`.
+
 ## Folder organization
 ```
 vault/
