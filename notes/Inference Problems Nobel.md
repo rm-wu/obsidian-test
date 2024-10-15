@@ -1,3 +1,12 @@
+---
+category: pqper
+last-reviewed: 2024.10.15-16:42
+tags:
+  - paper
+status:
+  - toread
+---
+
 2024.10.14-1812
 Status: 
 Tags:
