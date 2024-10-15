@@ -7,7 +7,7 @@ A repo to test obsidian as a collaborative note taking tool for a research group
 ### How to use
 Let's start by cloning the repo:
 ```shell
-git clone https://github.com/rm-wu/ocl_project.git
+git clone https://github.com/rm-wu/obsidian-test.git
 ```
 Open the folder as a vault in Obsidian.
 `Obsidian > File > Open Vault > Open Folder as Vault > Select the folder you cloned the repo into. `
