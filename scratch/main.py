@@ -9,7 +9,7 @@ async def sync_changes(websocket, path):
             # Process the received changes
             # Update local files
             # Commit and push to GitHub
-            repo = git.Repo('/path/to/local/repo')
+            repo = git.Repo('../.git/')
             repo.git.add(update=True)
             repo.index.commit('Auto-commit: ' + data[:50])
             origin = repo.remote(name='origin')
