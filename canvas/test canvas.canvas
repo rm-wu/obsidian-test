@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"dc120f1ccfa8d8f4","x":-100,"y":-160,"width":400,"height":171,"type":"file","file":"files/IMW_scheme.png"},
+		{"id":"ba8a6f8642cd88f3","x":-140,"y":100,"width":250,"height":60,"type":"text","text":"something something"}
+	],
+	"edges":[
+		{"id":"f2d4aa0ae8c984c7","fromNode":"ba8a6f8642cd88f3","fromSide":"top","toNode":"dc120f1ccfa8d8f4","toSide":"bottom"}
+	]
+}

@@ -27,6 +27,18 @@ For enabling hotkeys, `Obsidian Preferences > Hotkeys > Plugins > Search for tem
 
 For template, go to `Obsidian Preferences > Templates > Template Folder location > templates`.
 
+## How to install the repo
+This are the commands to clone the repo into your personal vault and then setup the new git remote.
+```bash
+export VAULT_PATH=/path/to/your/vault
+mkdir $VAULT_PATH
+git clone https://github.com/rm-wu/obsidian-test.git $VAULT_PATH
+cd $VAULT_PATH
+rm -rf .git 
+git init .
+# ... proceed setting up your remote on GitHub (needed for collaborate on the vault)
+```
+
 ## Folder organization
 ```
 vault/
